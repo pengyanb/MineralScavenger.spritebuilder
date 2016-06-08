@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>filenames</key>
+	<dict>
+		<key>Asserts/Audio/Blop.wav</key>
+		<string>Asserts/Audio/Blop.caf</string>
+		<key>Asserts/Audio/Jumping.wav</key>
+		<string>Asserts/Audio/Jumping.caf</string>
+		<key>Asserts/Audio/LevelUp1.wav</key>
+		<string>Asserts/Audio/LevelUp1.caf</string>
+		<key>Asserts/Audio/LevelUp2.wav</key>
+		<string>Asserts/Audio/LevelUp2.caf</string>
+		<key>Asserts/Audio/PorUnaCabeza.wav</key>
+		<string>Asserts/Audio/PorUnaCabeza.m4a</string>
+		<key>Asserts/Audio/Shattering.wav</key>
+		<string>Asserts/Audio/Shattering.caf</string>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>version</key>
+		<integer>1</integer>
+	</dict>
+</dict>
+</plist>
